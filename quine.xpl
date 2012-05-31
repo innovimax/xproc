@@ -9,7 +9,7 @@
       <p:inline>
         <p:declare-step version="1.0">
           <p:documentation>
-            <p>(c) Innovimax 2011 - The first XProc Quine</p>
+            <p>(c) Innovimax/Mohamed ZERGAOUI 2011-2012 - The first XProc Quine</p>
           </p:documentation>
           <p:output port="result"/>
           <p:identity>
