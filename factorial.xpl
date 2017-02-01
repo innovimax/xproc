@@ -2,7 +2,7 @@
 <p:declare-step xmlns:p="http://www.w3.org/ns/xproc"
   xmlns:c="http://www.w3.org/ns/xproc-step" xmlns:ix="http://www.innovimax.fr/ns" version="1.0" exclude-inline-prefixes="ix">
   <p:documentation>
-    <p>(c) Innovimax/Mohamed ZERGAOUI 2010-2012 - XProc recursive factorial </p>
+    <p>(c) Innovimax/Mohamed ZERGAOUI 2010-2017 - XProc recursive factorial </p>
   </p:documentation>  
   <p:output port="result"/>  
   <p:declare-step name="factorial" type="ix:factorial">
