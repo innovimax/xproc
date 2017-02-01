@@ -69,7 +69,7 @@
   <p:declare-step type="ix:sort" name="sort">
     <p:documentation>
       <p>XProc QuickSort implementation</p>
-      <p>Copyright (C) 2010-2012 Mohamed ZERGAOUI Innovimax</p>
+      <p>Copyright (C) 2010-2017 Mohamed ZERGAOUI Innovimax</p>
     </p:documentation>
     <p:input port="source" sequence="true"/>
     <p:output port="result" sequence="true"/>
