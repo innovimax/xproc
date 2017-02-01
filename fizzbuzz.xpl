@@ -4,7 +4,7 @@
   xmlns:ix="http://www.innovimax.fr/ns"
   version="1.0" exclude-inline-prefixes="c ix">
   <p:documentation>
-    <p>(c) Innovimax/Mohamed ZERGAOUI 2012 - The fizzbuzz XProc</p>
+    <p>(c) Innovimax/Mohamed ZERGAOUI 2012-2017 - The fizzbuzz XProc</p>
   </p:documentation>  
   <p:output port="result"/>
   <p:declare-step name="replicate" type="ix:replicate">
